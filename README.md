@@ -37,7 +37,9 @@ I want to be able to leave a comment for each photo
 * then `bin/rake db:create`
 * and finally `rails s`
 
-#### Screenshot:
+Visit http://localhost:3000 to start using "Isn't-Stagram"
+
+### Screenshot:
 
 ![Isn'tstagram screenshot](https://s3.amazonaws.com/f.cl.ly/items/253r1p0q0s1J0z0e2S0G/isnotscreenshot.png?v=67d9f9a8)
 
