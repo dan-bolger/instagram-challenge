@@ -26,10 +26,20 @@ I want to be able to leave a comment for each photo
 
 ### Technologies Used:
 
-* Ruby On Rails (full-stack web app framework)
+* Ruby On Rails 4.2.1 (full-stack web app framework)
+* Postgresql 
 * RSpec/Capybara(full testing suite for RoR applications testing the front and back end)
 
+### Get It Running:
 
+* Clone this repo
+* run `bundle`
+* then `bin/rake db:create`
+* and finally `rails s`
+
+#### Screenshot:
+
+![Isn'tstagram screenshot](https://s3.amazonaws.com/f.cl.ly/items/253r1p0q0s1J0z0e2S0G/isnotscreenshot.png?v=67d9f9a8)
 
 ### Steps taken/to take:
 
